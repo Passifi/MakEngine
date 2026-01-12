@@ -137,12 +137,14 @@
     <ClCompile Include="Camera.cpp" />
     <ClCompile Include="Graphic.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mesh.cpp" />
     <ClCompile Include="Render.cpp" />
     <ClCompile Include="Shader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Graphic.h" />
+    <ClInclude Include="Mesh.h" />
     <ClInclude Include="Render.h" />
     <ClInclude Include="Shader.h" />
   </ItemGroup>
